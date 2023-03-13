@@ -10,7 +10,7 @@ To use this program, you will need to install Python 3 on your computer.
 1. Download your history of chess game in https://www.chess.com/games/archive/YOUR_PSEUDONYM
 2. Clone this repository onto your local machine.
 3. Open a terminal window and navigate to the project directory.
-4. Run the following command in the ChessVision directory:
+4. Run the following command :
 ```
 python chess_vision.py
 ```
