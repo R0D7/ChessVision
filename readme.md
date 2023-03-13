@@ -17,7 +17,7 @@ python chess_vision.py
 
 5. Enter the path of the .pgn file when prompted.
 ```
-6. Enter the path of the .pgn export from chess.com (format : C:\directory\files.png): C:\directory\chesscom_games.pgn
+Enter the path of the .pgn export from chess.com (format : C:\directory\files.png): C:\directory\chesscom_games.pgn
 ```
 Exemple of output : 
 ```
